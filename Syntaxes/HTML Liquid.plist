@@ -4,7 +4,7 @@
 <dict>
 	<key>fileTypes</key>
 	<array>
-		<string>liquid</string>
+		<string>liquor</string>
 	</array>
 	<key>foldingStartMarker</key>
 	<string>(?x)
@@ -28,7 +28,7 @@
 			<key>end</key>
 			<string>%}</string>
 			<key>name</key>
-			<string>source.liquid.tags.embedded.html</string>
+			<string>source.liquor.tags.embedded.html</string>
 			<key>patterns</key>
 			<array>
 				<dict>
@@ -43,7 +43,7 @@
 			<key>end</key>
 			<string>}}</string>
 			<key>name</key>
-			<string>source.liquid.output.embedded.html</string>
+			<string>source.liquor.output.embedded.html</string>
 			<key>patterns</key>
 			<array>
 				<dict>
@@ -58,7 +58,7 @@
 		</dict>
 	</array>
 	<key>scopeName</key>
-	<string>text.html.liquid</string>
+	<string>text.html.liquor</string>
 	<key>uuid</key>
 	<string>675E0890-CA4B-404D-8000-15BE6FAE9998</string>
 </dict>

@@ -9,7 +9,7 @@
 	<key>name</key>
 	<string>when</string>
 	<key>scope</key>
-	<string>text.html.liquid</string>
+	<string>text.html.liquor</string>
 	<key>tabTrigger</key>
 	<string>lcw</string>
 	<key>uuid</key>

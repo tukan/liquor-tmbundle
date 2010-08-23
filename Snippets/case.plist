@@ -12,7 +12,7 @@
 	<key>name</key>
 	<string>case</string>
 	<key>scope</key>
-	<string>text.html.liquid</string>
+	<string>text.html.liquor</string>
 	<key>tabTrigger</key>
 	<string>lca</string>
 	<key>uuid</key>
