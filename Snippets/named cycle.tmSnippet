@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>{% cycle '${1:groupe name}': '${2:first value}', '${3:second value}' %}
+</string>
+	<key>name</key>
+	<string>named cycle</string>
+	<key>scope</key>
+	<string>text.html.liquor</string>
+	<key>tabTrigger</key>
+	<string>lcg</string>
+	<key>uuid</key>
+	<string>1960E8FE-F716-42F7-87F6-7DADE0A14406</string>
+</dict>
+</plist>

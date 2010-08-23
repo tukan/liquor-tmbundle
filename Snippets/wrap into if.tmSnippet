@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>{% if  ${2:condition} %}
+ $TM_SELECTED_TEXT
+{% else %}
+ ${3:what to do else}
+{% endif %}</string>
+	<key>name</key>
+	<string>wrap into if</string>
+	<key>scope</key>
+	<string>text.html.liquor</string>
+	<key>tabTrigger</key>
+	<string>lif</string>
+	<key>uuid</key>
+	<string>C6D5CEFA-2ADB-443E-B715-DE148878F781</string>
+</dict>
+</plist>
