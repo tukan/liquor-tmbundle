@@ -1,4 +1,4 @@
-# TextMate bundle for Liquid development
+# TextMate bundle for Liquor development
 
 To install with Git:
 
